@@ -1,0 +1,58 @@
+# Helpful Links
+
+PLEASE FEEL FREE TO ADD TO THIS LIST
+
+- General Sites To Know
+    - https://learn.grasshopper.app/
+    - https://www.freecodecamp.org/learn
+    - https://www.khanacademy.org/search?referer=%2Fprofile%2Fkaid_354341160378084714985556%2Fcourses&page_search_query=coding
+    - https://www.reddit.com/r/learnprogramming/wiki/online
+    - https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
+    - https://www.codecademy.com/learn
+    - http://www.codecodex.com/wiki/Main_Page
+    - https://developer.mozilla.org/en-US/
+    - https://dev.to/
+    - https://stackoverflow.com/
+    - https://caniuse.com/
+    - https://repl.it/
+- Python
+    - https://docs.python.org/3/library/
+    - https://docs.python.org/3/library/operator.html
+    - https://realpython.com/python-operators-expressions/
+    - https://docs.python.org/3/tutorial/
+- SML
+    - https://formulae.brew.sh/cask/smlnj#default
+    - https://www-cambridge-org.ezproxy.wesleyan.edu/core/books/ml-for-the-working-programmer/BDAAF5C30634CC39385F75C97274BFCC
+    - https://cs.fit.edu/~ryan/sml/intro.html
+    - https://smlfamily.github.io/Basis/math.html#SIG:MATH.cos:VAL
+    - https://smlfamily.github.io/Basis/string.html
+    - https://smlfamily.github.io/Basis/list.html
+    - https://smlfamily.github.io/Basis/list-pair.html#ListPair:STR:SPEC
+    - https://smlfamily.github.io/Basis/general.html#General:STR:SPEC
+- Flutter
+    - https://flutter.dev/docs
+    - https://dart.dev/guides/libraries
+    - https://dart.dev/guides
+- HTML
+    - https://html.spec.whatwg.org/multipage/
+    - https://www.rexegg.com/regex-quickstart.html
+- CSS
+    - https://www.w3.org/TR/CSS2/selector.html
+    - https://css-tricks.com/
+    - https://www.w3.org/Style/CSS/Overview.en.html
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#values
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+- JavaScript
+    - https://eloquentjavascript.net/
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    - https://nodejs.org/api/repl.html
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#keywords
+    - https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+    - https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
+- SQL
+    - https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet
+    - https://www.w3schools.com/sql/
+- Markdown
+    - https://whatismarkdown.com/
