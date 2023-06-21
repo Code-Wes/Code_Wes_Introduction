@@ -13,6 +13,7 @@ Welcome to the Code_Wes repository! Here you will find all important links, oppo
 ## Where do I start?
 
 There are a few markdown files in this repo, each containing important information for you to look through.
+
 - [emails.md](./emails.md): Email addresses of all of the officers in the club.
 - [wesCS.md](./wesCS.md): Links pertaining to the CS major and a quick runthrough.
 - [afterWes.md](./afterWes.md): some important links to look through for Wes connections.
@@ -20,4 +21,5 @@ There are a few markdown files in this repo, each containing important informati
 - [helpfulLinks.md](./helpfulLinks.md): A few helpful links. This will be periodically updated, and is in no way comprehensive.
 
 ## Email Listserv
-We have an email listserv! Contact dgoldelman@wesleyan.edu to be added.
+
+We have an email listserv! Contact code.wesleyan@gmail.com to be added.
