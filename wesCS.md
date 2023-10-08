@@ -2,8 +2,8 @@
 
 While the CS major at Wesleyan is certainly difficult, we have a great community of coders that are willing to help you manage the stress of the choice you made. Remember always that we are in this together, and that Wesleyan is not a competition-based school; your classmate's grades do not influence yours. With that in mind, lets stay together as a community both inside and outside of our classes.
 
-- Wesleyan CS major website: https://www.wesleyan.edu/mathcs/cs/index.html
-- Wesleyan CS faculty and interests: https://www.wesleyan.edu/mathcs/cs/faculty.html
+- Wesleyan CS major website: <https://www.wesleyan.edu/mathcs/cs/index.html>
+- Wesleyan CS faculty and interests: <https://www.wesleyan.edu/mathcs/cs/faculty.html>
   - [Dan Licata](https://www.wesleyan.edu/academics/faculty/dlicata/profile.html): Programming langauges, functional programming, type theory (this means highly mathematical analysis of programming and how computing languages can be optimized, with a focus on generation of new code to experiment with these ideas)
   - [Norman Danner](https://www.wesleyan.edu/academics/faculty/ndanner/profile.html): Formalisms, practical programming languages with type-theoretic guarantees of resource usage, cost information from program source code (this means highly mathematical anaylsis of programming and how computing langauges can be optimized, with a focus on the minute details of optimization and refactoring)
   - [Daniel Krizanc](https://www.wesleyan.edu/academics/faculty/dkrizanc/profile.html): Design and analysis of algorithms, distributed computing, networking, computational biology (this means creating new algorithms to explore how code can be used to answer questions in biology)
@@ -11,12 +11,11 @@ While the CS major at Wesleyan is certainly difficult, we have a great community
   - [Victoria Manfredi](https://www.wesleyan.edu/academics/faculty/vumanfredi/profile.html): Computer networks, machine learning, network analysis (this means analysis and optimization of the way that data is sent between clients and hosts through the existing network)
   - [Sebastian Zimmeck](https://www.wesleyan.edu/academics/faculty/szimmeck/profile.html): Information security and privacy, privacy tech, program analysis (this means building new applications or extensions to promote privacy regulations)
   - [Sonia Roberts](https://www.wesleyan.edu/academics/faculty/sfroberts/profile.html) (New Professor): Soft Knitted Robots (robots that have built in sensor modules and can change shape depending on the environment and use case)
-- Honarable Mentions
-  - [Kelly Thayer](https://www.wesleyan.edu/academics/faculty/kthayer/profile.html): Associate Professor of the Practice in Integrative Sciences; teaches intro classes (eg. COMP 112).
+  - [Kelly Thayer](https://www.wesleyan.edu/academics/faculty/kthayer/profile.html): Development of drugs using algorithms that predict impact of changing protein structures, other computational models, very bio-heavy.
   - [Robert Rose](https://www.wesleyan.edu/academics/faculty/rrose/profile.html): Postdoctoral Fellow in Computer Science; teaches highly theoretical courses including Automata Theory, and Automated Reasoning.
-  - [Pippin Wolfe](https://www.wesleyan.edu/academics/faculty/pwolfe/profile.html): Postdoctoral Fellow in Computer Science; teaches intro classes (eg. COMP 112).
+  - [Pippin Wolfe](https://www.wesleyan.edu/academics/faculty/pwolfe/profile.html): ML, reinforcement learning, graphs, distributed systems (this means a ton of ml stuff at a high level)
 - Yes, this is somehow the whole list of CS teachers at Wesleyan.
-- Wesleyan CS classes overview: https://www.wesleyan.edu/mathcs/cs/regular_courses.html
+- Wesleyan CS classes overview: <https://www.wesleyan.edu/mathcs/cs/regular_courses.html>
   - 100 levels
     - Comp 112 **Intro to Programming**: Never coded before? Want to give it a try? Take this class.
     - Comp 113 **Bioinformatics (for people)**: Want to see a bit about how code can be used in bioinformatics research?
@@ -33,7 +32,7 @@ While the CS major at Wesleyan is certainly difficult, we have a great community
       - Comp 321 **DPL** _programming langauages_: How does the computer do math? How do you? WRONG. You do it like a computer now. Just way slower, and using way more paper. Meet Mr. Sipser in your nightmares.
       - Comp 323 **PLI** _programming langauges_: Want to code the computer's math? You sure?
       - Comp 331 **Computer Structure and Organization** _systems_: Have you ever changed the battery on your computer? See all the other stuff you didn't touch? Want to know what they do?
-      - Comp 332 **Computer Networks** _systems_: How did the stuff from www.stackoverflow.com get to me? And why did it take 32 steps to get to my computer?
+      - Comp 332 **Computer Networks** _systems_: How did the stuff from <www.stackoverflow.com> get to me? And why did it take 32 steps to get to my computer?
       - Comp 333 **Software engineering** _systems_: Remember why you joined this major? I bet it wasn't for DPL.
     - Electives:
       - Comp 327 **Bioinformatics (for coders)**: Build the algorithms that will solve the major medical issues of our time by constantly searching google for simple python commands.
@@ -41,3 +40,6 @@ While the CS major at Wesleyan is certainly difficult, we have a great community
       - Comp 341 **Artificial Intelligence**: Think algorithms was fun? Do it again! But with lectures that will inevitably bring you back to using google's waaaaaaaay better builtins.
       - Comp 343 **Machine Learning**: Impress your parents by taking this class and then use google's waaaaaaaay better builtins.
       - Comp 360 **Information Security and Privacy**: Use all the blockers and vpns you want, tor is the only safe way to get to handshake.
+    - Special Topics
+      - **Automated Reasoning**: DPL + Automata. Sound fun to you? Let's see if this ever gets offered again.
+      - **Robotics**: We have no idea yet. Let's see if this ever gets offered again.
